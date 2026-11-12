@@ -17,3 +17,9 @@ Free Colab notebooks for every module: **[ai-research-engineering](https://githu
 From your first model call on your own laptop to an AI product that is measured, secured, deployed and monitored.
 
 The code for every lesson, one repo you run on your laptop: **[applied-ai-engineering](https://github.com/aicoursesdev/applied-ai-engineering)**
+
+### [Inference Engineering](https://aicourses.dev/inference)
+
+From the KV cache to a deployed, load-tested endpoint with a cost report.
+
+The code for every lesson, one repo you run on your laptop: **[inference-engineering](https://github.com/aicoursesdev/inference-engineering)**
