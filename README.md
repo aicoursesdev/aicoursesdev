@@ -23,3 +23,9 @@ The code for every lesson, one repo you run on your laptop: **[applied-ai-engine
 From the KV cache to a deployed, load-tested endpoint with a cost report.
 
 The code for every lesson, one repo you run on your laptop: **[inference-engineering](https://github.com/aicoursesdev/inference-engineering)**
+
+### [AI Evals](https://aicourses.dev/evals)
+
+Find out whether your AI product works, with numbers you can trust.
+
+The code for every lesson, one repo you run on your laptop: **[ai-evals](https://github.com/aicoursesdev/ai-evals)**
