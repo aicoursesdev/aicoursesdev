@@ -29,3 +29,9 @@ The code for every lesson, one repo you run on your laptop: **[inference-enginee
 Find out whether your AI product works, with numbers you can trust.
 
 The code for every lesson, one repo you run on your laptop: **[ai-evals](https://github.com/aicoursesdev/ai-evals)**
+
+### [Mathematics for AI](https://aicourses.dev/mathematics)
+
+The maths inside AI, from school maths to the transformer.
+
+Free Colab notebooks for every module: **[mathematics-for-ai](https://github.com/aicoursesdev/mathematics-for-ai)**
